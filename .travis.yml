@@ -6,3 +6,4 @@ script: python setup.py test
 
 
 services: mysql
+build_image: drydock/u14pytpls:prod
